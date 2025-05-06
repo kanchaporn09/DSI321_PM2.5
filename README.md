@@ -20,6 +20,14 @@ Real-Time PM 2.5 Monitoring  Dashboard
 ```bash
 git clone https://github.com/kanchaporn09/dsi321_2025.git
 
+
+
+
+
+
+
+
 3. เข้าไปในโฟลเดอร์โปรเจกต์:
 
+```bash
 cd dsi321_2025
