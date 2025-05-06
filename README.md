@@ -18,16 +18,15 @@ Shell Script: สำหรับการตั้งค่าและรัน
 
 1. ติดตั้ง Docker และ Docker Compose บนเครื่องของคุณ
 2. โคลนโปรเจกต์นี้:
-
 ```bash 
-git clone https://github.com/kanchaporn09/dsi321_2025.git ```
+git clone https://github.com/kanchaporn09/dsi321_2025.git 
+
 
 3. เข้าไปในโฟลเดอร์โปรเจกต์:
-
-```bash`
+```bash
 cd dsi321_2025
 
-4. รันระบบด้วย Docker Compose:
 
+4. รันระบบด้วย Docker Compose:
 ```bash
 docker-compose up
