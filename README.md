@@ -26,7 +26,11 @@ git clone https://github.com/kanchaporn09/dsi321_2025.git
 ```bash
 cd dsi321_2025
  ```
+4. รันระบบด้วย Docker Compose:
 
+```bash
+docker-compose up
+ ```
 
 
 
