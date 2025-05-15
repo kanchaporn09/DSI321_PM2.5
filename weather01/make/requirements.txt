@@ -7,3 +7,9 @@ plotly
 matplotlib
 fsspec==2025.3.2
 s3fs==2025.3.2
+pandas
+scikit-learn
+seaborn
+matplotlib
+pyarrow
+s3fs
